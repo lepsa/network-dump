@@ -1,0 +1,8 @@
+.stack-work/
+network.cabal
+dist/
+dist-newstyle/
+src/IPs.hs
+.cabal-sandbox
+.stack-work
+*~
